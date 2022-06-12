@@ -1,4 +1,0 @@
-apply plugin:'java'
-dependencies{
-compile files('../../nframework/server/build/libs/nframework-server.jar','../TMChessCommon/build/libs/TMChessCommon.jar')
-}

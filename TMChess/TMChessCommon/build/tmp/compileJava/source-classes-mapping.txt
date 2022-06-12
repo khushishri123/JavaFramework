@@ -1,4 +1,0 @@
-com/thinking/machines/chess/common/Message.java
- com.thinking.machines.chess.common.Message
-com/thinking/machines/chess/common/MESSAGE_TYPE.java
- com.thinking.machines.chess.common.MESSAGE_TYPE
