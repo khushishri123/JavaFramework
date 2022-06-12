@@ -1,4 +1,0 @@
-com/thinking/hr/server/main/Main.java
- com.thinking.machines.hr.server.main.Main
-com/thinking/hr/server/RequestHandler.java
- com.thinking.machines.hr.server.RequestHandler

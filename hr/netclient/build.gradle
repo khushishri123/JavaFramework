@@ -1,4 +1,0 @@
-apply plugin: 'java'
-dependencies{
-compile files('../netcommon/build/libs/netcommon.jar')
-}
