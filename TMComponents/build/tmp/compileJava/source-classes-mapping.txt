@@ -1,2 +1,0 @@
-com/thinking/machines/tmcomponents/swing/TMDatePicker.java
- com.thinking.machines.tmcomponents.swing.TMDatePicker
