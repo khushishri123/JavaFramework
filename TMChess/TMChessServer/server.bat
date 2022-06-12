@@ -1,0 +1,1 @@
+java -classpath ..\..\nframework\common\build\libs\*;..\..\nframework\server\build\libs\*;c:\gson\*;..\TMChessCommon\build\libs\*;build\libs\*;. com.thinking.machines.chess.server.Main
